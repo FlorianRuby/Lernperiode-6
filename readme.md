@@ -5,6 +5,6 @@
 
 ## 30.08
 - [ ] Godot Github integration
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Placeholder & Pixel art hinzufügen
+- [ ] familiarizing with the enviroment
+- [ ] character platzieren
