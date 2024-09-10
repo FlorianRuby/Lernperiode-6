@@ -24,5 +24,5 @@ Diese hat auch schon Kollisionsphysik und man kann in dem Gif sehen, wie es mit 
 ## 06.09
 - [ ] Map vergrössern
 - [ ] Map vergrössern
-- [ ] Zweites Tilemap lazer mit items
+- [ ] Zweites Tilemap layer mit items
 - [ ] Kamera soll Spieler folgen
