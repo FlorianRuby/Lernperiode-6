@@ -27,4 +27,4 @@ Diese hat auch schon Kollisionsphysik und man kann in dem Gif sehen, wie es mit 
 - [X] Zweites Tilemap layer mit items
 - [X] Kamera soll Spieler folgen
        
-✍️Heute habe ich die Map erweitert und eine zweite Tilemap mit verschiedenen Items wie Coins oder Bücher erstellt. Ausserdem habe ich die Kamera so programmiert, das sie dem Spieler verfolgt. ([Code](https://github.com/muicmateo/Godot) )
+✍️Heute habe ich die Map erweitert und eine zweite Tilemap mit verschiedenen Items wie Coins oder Bücher erstellt. Ausserdem habe ich die Kamera so programmiert, das sie dem Spieler verfolgt.
